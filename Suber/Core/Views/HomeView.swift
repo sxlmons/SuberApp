@@ -5,6 +5,8 @@
 //  Created by Joshua Salmons on 2024-12-20.
 //
 
+// Hello this is a test commit
+
 import SwiftUI
 
 struct HomeView: View {
